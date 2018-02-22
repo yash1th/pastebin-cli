@@ -1,0 +1,13 @@
+#binaries
+bin/
+include/
+lib/
+*.cfg
+
+#ignore json files
+*.json
+
+#ignore scratch-work folder
+scratch-work/
+
+
