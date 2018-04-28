@@ -30,8 +30,8 @@ def get_user_api_key():
         sys.exit(-2)
 
 def main():
-    get_dev_api_key()
-    get_user_api_key()
+    print(get_dev_api_key())
+    print(get_user_api_key())
 
 if __name__ == '__main__':
     main()
