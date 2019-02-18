@@ -253,3 +253,9 @@ languages = {
     'z80' : 'Z80 Assembler',
     'zxbasic' : 'ZXBasic',
 }
+
+api_paste_private = {
+    'public' : 0,
+    'unlisted' : 1,
+    'private' : 2,
+}
